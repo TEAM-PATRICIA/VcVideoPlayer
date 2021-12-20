@@ -9,7 +9,7 @@ The easiest way to deploy this Bot is via Heroku.
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDeeCode/VcVideoPlayer)
 
-<p align="center"><img src="https://github.com/TEAM-PATRICIA/VcVideoPlayer/blob/dev/assets/star.mp4" alt="TEAM-PATRICIA Github" width="1000px" /></p>
+<p align="center"><img src="https://github.com/TEAM-PATRICIA/VcVideoPlayer/blob/dev/assets/star.gif" alt="TEAM-PATRICIA Github" width="1000px" /></p>
 
 
 # Our Credit 🔥
